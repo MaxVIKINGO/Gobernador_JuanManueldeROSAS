@@ -3,19 +3,19 @@
 		"name": "Provincia de Buenos Aires",
 		"leaderName": "Gobernador Juan Manuel de Rosas",
 		"adjective": ["Bonaerense"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Plain"],
+		"preferredVictoryType": "Policy",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Viva los Federales!",
+		"startIntroPart2": "Creen que soy federal; no señor, no soy de partido alguno sino de la Patria... En fin, todo lo que yo quiero es evitar males y restablecer las instituciones, pero siento que me hayan traído a este puesto!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "Mueran los salvajes Unitarios!",
+		"attacked": "Al Ataqueeee!",
+		"defeated": "El Rojopunzo no morirá jamás!",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralHello": "¿En qué puedo ayudarlo?",
+		"neutralLetsHearIt": ["Vamos.","Que le pasa?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
@@ -27,12 +27,12 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [203,50,52],
+		"innerColor": [255,255,255],
+		"unique": "Caudillismo Federal",
+		"cities": ["Buenos Aires","La Plata","Dolores","Mar del Plata","Bahía Blanca","Junín","Olavarría","Lomas de Zamora","Avellaneda",
+			"Quilmes","Lanús","Almirante Brown","Morón","Ramos Mejía","Luján","Mercedes","Cañuelas","Lobos","Bolivar",
+			"Chascomús","Azúl","Bragado","Chivilcoy","Saladillo","Las Flores","Pehuajó","Pergamino","Necochea","Balcarce",
+			"Coronel Pringles","Tres Arroyos","Trenque Lauquen","Campana","Zarate","Brandsen"]
 	}
 ]
