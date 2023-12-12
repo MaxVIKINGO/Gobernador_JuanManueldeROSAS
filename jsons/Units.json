@@ -1,17 +1,24 @@
 [
 	{
-		"name": "Regimiento de Patricios",
-		"unitType": "Ranged",
+		"name": "Los Colorados del Monte",
+		"unitType": "Mounted",
 		"uniqueTo": "Gobierno de Buenos Aires",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"replaces": "Lancer",
+		"movement": 4,
+		"strength": 25,
+		"cost": 155,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Combined Arms",
+		"requiredResource": "Horses",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "horse"
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"upgradesTo": "Anti-Tank Gun",
+		"promotions": ["[Gaucho] ability"],
+		"civilopediaText": [
+			{
+				"text": "Men mounted on horse, the skilled Gauchos from the Northern river plains were masters at the livestock work, who were the cogs behind the important livestock economy. Good warriors as well, fighting for independence and conquering the Patagonia for Argentina."
+			}
+		],
 	}
 ]
