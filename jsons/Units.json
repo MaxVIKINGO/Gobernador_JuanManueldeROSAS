@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Regimiento de Patricios",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Gobierno de Buenos Aires",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
