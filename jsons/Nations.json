@@ -3,7 +3,7 @@
 		"name": "Provincia de Buenos Aires",
 		"leaderName": "Gobernador Juan Manuel de Rosas",
 		"adjective": ["Bonaerense"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Policy",
 		
 		"startIntroPart1": "Viva los Federales!",
