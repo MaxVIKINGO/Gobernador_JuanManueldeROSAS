@@ -31,7 +31,7 @@
 		"innerColor": [203,50,52],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Warlordism",
-		"unique": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
+		"unique": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat, Farm]"],
 		"cities": ["Buenos Aires","La Plata","Dolores","Mar del Plata","Bahía Blanca","Junín","Olavarría","Lomas de Zamora","Avellaneda",
 			"Quilmes","Lanús","Almirante Brown","Morón","Ramos Mejía","Luján","Mercedes","Cañuelas","Lobos","Bolivar",
 			"Chascomús","Azúl","Bragado","Chivilcoy","Saladillo","Las Flores","Pehuajó","Pergamino","Necochea","Balcarce",
