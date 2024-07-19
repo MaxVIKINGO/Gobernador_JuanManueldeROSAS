@@ -12,9 +12,9 @@
 		"requiredTech": "Banking"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Estancias",
+		"replaces": "Barn",
+		"uniqueTo": "Republic of Buenos Aires",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
